@@ -1,0 +1,13 @@
+.Our_mission{
+    width: 1800px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    background-color: black;
+}
+
+.Principal{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    height: 1200px;
+    width: 1800px;
+}
